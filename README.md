@@ -5,7 +5,12 @@
 
 ## Welcome Future Hackers!
 
-We're updating the materials for our [Hacking &amp; Cybersecurity course](https://www.lawfareblog.com/lawfare-hacking-and-cybersecurity-course) here. For the previous course materials, see [this repository](https://github.com/lawfareblog/hacking-cybersecurity).
+We're updating the materials for our [Hacking &amp; Cybersecurity course](https://www.lawfareblog.com/lawfare-hacking-and-cybersecurity-course) here. [Check out the first video!](https://www.youtube.com/watch?v=MLNlf8iNB4Y)
+
+[<img src="assets/images/video-teaser.png" style="width:60%">](https://www.youtube.com/watch?v=MLNlf8iNB4Y)
+
+
+For the previous course materials, see [this repository](https://github.com/lawfareblog/hacking-cybersecurity).
 
 ## What Is This Course?
 
